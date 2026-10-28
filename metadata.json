@@ -1,0 +1,6 @@
+{
+  "name": "OneService Central - ระบบศูนย์กลางบริการและจัดการคำร้ององค์กร",
+  "description": "ระบบเว็บแอปพลิเคชันศูนย์กลางบริการและจัดการคำร้ององค์กรตามมาตรฐาน ITSM และ SDLC รวบรวมบริการทุกแผนก (IT, การตลาด, HR, ธุรการ) สำหรับผู้ขอรับบริการ เจ้าหน้าที่ และผู้บริหาร",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
